@@ -220,10 +220,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Diyor Abjalilov**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@DiorAbjalilov](https://github.com/DiorAbjalilov)
+- LinkedIn: [Diyor Abjalilov](https://linkedin.com/in/diyorabjalilov)
 
 ## 🙏 Acknowledgments
 
