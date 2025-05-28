@@ -32,8 +32,8 @@ A modern Library Management System built with **NestJS**, **GraphQL**, **TypeORM
 1. **Clone the repository**
 
 ```bash
-git clone <your-repo-url>
-cd library-management-system
+git clone https://github.com/DiorAbjalilov/nestjs-crud-api
+cd nestjs-crud-api
 ```
 
 2. **Install dependencies**
@@ -63,7 +63,7 @@ npm run start:dev
 
 ### Swagger Documentation
 
-- **URL:** `http://localhost:3000/api`
+- **URL:** `http://localhost:3000/api-docs`
 - Complete REST API documentation
 
 ### REST API
