@@ -12,10 +12,10 @@ import { BookModule } from './book/book.module';
     TypeOrmModule.forRoot({
       type: 'postgres',
       host: 'localhost',
-      port: 5435,
+      port: 5432,
       username: 'postgres',
       password: 'postgres',
-      database: 'todos_db',
+      database: 'railway',
       entities: [__dirname + '/**/*.entity{.ts,.js}'],
       synchronize: true, // Set to false in production
     }),
